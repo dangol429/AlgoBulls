@@ -2,7 +2,7 @@
 
 ## Overview
 
-Algo Bulls is a web application which works as a repilca of facebook. Still there are alot of things that can be improved. I still might need 2-3 days to completely understand and work upon it .  
+This is a web application which works as a repilca of facebook. Still there are alot of things that can be improved. I still might need 2-3 days to completely understand and work upon it .  
 
 the deployed site: [Algo Bulls](https://algo-bulls2-n9oi.vercel.app/)
 
